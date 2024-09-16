@@ -39,17 +39,19 @@ The antenna design process involved the following steps:
 ### Return Loss (S11 Parameter)
 The return loss of the designed antenna was found to be **-17.5 dB**, indicating a good match between the antenna and the feed line.
 
-![Return Loss](https://example.com/return_loss.png)
+![Return Loss](https://github.com/user-attachments/assets/27ff9bcd-4dcc-44e3-aa33-8f10b94a371c)
 
 ### 2D Radiation Pattern at 3 GHz
 The following is the 2D polar plot showing the radiation pattern of the antenna at 3 GHz.
 
-![2D Radiation Pattern](https://example.com/2d_radiation_pattern.png)
+![2D Radiation Pattern](https://github.com/user-attachments/assets/fdc16c48-d720-49dc-a35e-60198a581365)
+
 
 ### 3D Radiation Pattern at 3 GHz
 Here is the 3D radiation pattern showing the antenna's performance at 3 GHz.
 
-![3D Radiation Pattern](https://example.com/3d_radiation_pattern.png)
+![3D Radiation Pattern](https://github.com/user-attachments/assets/92090012-13b2-483f-916e-57c76d1a7691)
+
 
 ## Discussion
 The microstrip patch antenna resonates at the desired frequency of **3 GHz** with a return loss of **-17.5 dB**. The antenna design achieves efficient performance, making it suitable for applications like weather radar, surface ship radar, and satellite communication.
